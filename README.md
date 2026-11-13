@@ -8,15 +8,12 @@ A lightweight AI chat application powered by MediaPipe and Compose.
 | :---: | :---: |
 
 
-<img src= "https://github.com/jassdahima/Lemma/blob/main/app/screenshots/lemma1.png" width = "250" />
+| <img src= "https://github.com/jassdahima/Lemma/blob/main/app/screenshots/lemma1.png" width = "250" /> |
+| <img src= "https://github.com/jassdahima/Lemma/blob/main/app/screenshots/lemma2.png" width = "250" /> |
+| <img src= "https://github.com/jassdahima/Lemma/blob/main/app/screenshots/lemma3.png" width = "250" /> |
+| <img src= "https://github.com/jassdahima/Lemma/blob/main/app/screenshots/lemma4.png" width = "250" /> |
 
-| <img src="screenshots/lemma1.png" width="280"> |
 
-
-<img src= "https://github.com/jassdahima/Lemma/blob/main/screenshots/lemma1.png" width = "250" />
-
-| <img src="screenshots/lemma1.png" width="200" /> | <img src="screenshots/lemma2.png" width="200" /> |
-| <img src="screenshots/lemma3.png" width="200" /> | <img src="screenshots/lemma4.png" width="200" /> |
 
 ## Features
 - **On-device LLM:** Uses Google LiteRT (Gemma) for private processing.
