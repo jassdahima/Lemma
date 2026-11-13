@@ -6,6 +6,10 @@ A lightweight AI chat application powered by MediaPipe and Compose.
 
 | Loading State | Chat Interface |
 | :---: | :---: |
+
+| <img src="screenshots/Lemma1.png" width="280"> |
+
+
 <img src= "https://github.com/jassdahima/Lemma/blob/screenshots/Lemma1.png" width = "250" />
 
 | <img src="screenshots/lemma1.png" width="200" /> | <img src="screenshots/lemma2.png" width="200" /> |
